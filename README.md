@@ -1,6 +1,5 @@
-# praktikadatabase
-
-A new Flutter project.
+# Практическая работа №2
+создание таблиц 
 
 ## Getting Started
 
